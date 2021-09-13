@@ -22,9 +22,6 @@ public:
             }
         }
         
-        l /= 2;
-        o /= 2;
-        
-        return min({b,a,l,o,n});
+        return min({b,a,l/2,o/2,n});
     }
 };
