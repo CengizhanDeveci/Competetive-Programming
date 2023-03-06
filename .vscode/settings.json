@@ -5,6 +5,9 @@
         "string": "cpp",
         "unordered_map": "cpp",
         "xlocale": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
     }
 }
